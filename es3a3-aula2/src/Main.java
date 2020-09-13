@@ -11,7 +11,7 @@ public class Main {
 		Integer idade;
 		String cpf;
 		
-		//asasdasd
+		
 		UsuarioRepositorio usuarioRepositorio = new UsuarioRepositorio();
 				
 		System.out.println("Gerenciamento de Usuários");
